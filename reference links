@@ -1,0 +1,10 @@
+repo link
+https://github.com/Shreeshrii/tess4training
+
+Detail steps:
+https://tesseract-ocr.github.io/tessdoc/TrainingTesseract-4.00.html#one-time-setup-for-tesstutorial
+
+IF configure file is not found then create configure file use below link:
+https://github.com/plashchynski/libdssl/issues/4
+
+
